@@ -1,6 +1,7 @@
 package main
 
-//TODO remove date portion of department string
+//TODO Concurrency
+//TODO CI tests
 
 import (
 	"encoding/csv"
